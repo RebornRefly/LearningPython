@@ -4,7 +4,7 @@ import fractions
 # Normally calculate 0.1 + 0.2, there will be some problems.
 print(0.1 + 0.2)  # 0.30000000000000004
 
-# As we can see, the number after the dot is too long.
+# As we can see, the number after the dot are too long.
 # We can use import decimal package to solve it.
 print(decimal.Decimal('0.1') + decimal.Decimal('0.2'))  # 0.3
 
