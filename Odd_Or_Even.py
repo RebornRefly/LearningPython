@@ -5,3 +5,5 @@ if judge == 0:
     print('Even.\n')
 else:
     print('Odd.\n')
+
+# change log 2020.1.27
